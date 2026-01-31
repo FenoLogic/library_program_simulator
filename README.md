@@ -1,0 +1,2 @@
+# library_program_simulator
+Hello everyone! This was my very first real project,made back in 2025 along with 3 other junior developers. It simulates a program used to manage the finances (clearly with false money) of a library,along with a game of blackjack integrated. For any feedback,feel free to contact me. I´m always happy to find ways to improve!
