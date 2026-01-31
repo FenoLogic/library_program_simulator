@@ -1,5 +1,5 @@
 # Este código simula un programa de finanzas de una biblioteca (con dinero falso),incluyendo un juego de blackjack para entretenimiento.
-
+# El precio de los libros es calculado en base al estado del libro (Bueno,Malo,No entregado) y método de pago (Tarjeta,Efectivo)
 
 from sre_parse import State
 from tkinter import PhotoImage, Label
@@ -801,4 +801,5 @@ revisar_dinero1()
 revisar_dinero2()  
 revisar_dinero3()  
 revisar_dinero4()  
+
 app.mainloop() 
